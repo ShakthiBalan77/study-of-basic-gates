@@ -87,11 +87,13 @@ endmodule
 <img width="459" height="800" alt="Screenshot 2026-03-09 202554" src="https://github.com/user-attachments/assets/28b26cca-2779-4ad8-b6fa-7f5ad0ab110d" />
 
 **RTL realization Output:** 
-![IMAGE](DE EXP 1.jpeg)
 
+![IMAGE](DE_EXP_1.jpeg)
 
 **RTL**
 
-**Result:**
+![IMAGE](DE_EXP_1.2.jpeg)
 
+**Result:**
+Thus the basic logic gats are studied and the truth tables are verified.
 
